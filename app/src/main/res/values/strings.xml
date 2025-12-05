@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XO Project</string>
+    <string name="game_title">TIC TAC TOE</string>
+    <string name="tournament_mode">Tournament Mode</string>
+    <string name="choose_symbol">Choose Your Symbol</string>
+    <string name="play_as_x">Play as X</string>
+    <string name="play_as_o">Play as O</string>
+    <string name="number_of_games">Number of Games</string>
+    <string name="select_tournament_length">Select tournament length</string>
+    <string name="start_tournament">START TOURNAMENT</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="view_last_tournament">VIEW LAST TOURNAMENT</string>
+</resources>
